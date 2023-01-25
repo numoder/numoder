@@ -3,7 +3,7 @@ Hi 👋 My name is Anthony! 💽
 I've been learning code for about 3 years, and now I plan on coding seriously as a real venture! 
 * 🌍  I'm based in Florida 
 * ✉️  You can contact me at [aemurphypro@gmail.com](mailto:aemurphypro@gmail.com)
-* ⚡  🏳️‍⚧️🏳️‍🌈
+* 🏳️‍⚧️🏳️‍🌈
 
 <a href="https://www.github.com/AnthonyM04" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/AnthonyM04?logo=github&style=for-the-badge&color=ec4899&labelColor=ffffff" /></a>
 ### Skills  
