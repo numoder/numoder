@@ -1,6 +1,6 @@
 Hi 👋 My name is Anthony! 💽
 ============================
-I've been learning code for about 3 years, and now I plan on coding seriously as a real venture! 
+I've been learning code as a hobby for around 5 years, and now I plan on coding seriously as a real venture! 
 * 🌍  I'm based in Florida 
 * ✉️  You can contact me at [aemurphypro@gmail.com](mailto:aemurphypro@gmail.com)
 * 🏳️‍⚧️🏳️‍🌈
