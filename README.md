@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anthony!💽</h1>
 ==============================================
-<h3 align="center">A passionate up-and-coming frontend and backend software engineer!</h3>
+<h3 align="center">A passionate up-and-coming fullstack software engineer soon to be woman software engineer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anthonym04&label=Profile%20views&color=0e75b6&style=flat" alt="anthonym04" /> </p>
 
@@ -11,6 +11,8 @@
 - 🌱 I’m currently learning **React!**
 
 - 📫 How to reach me **aemurphypro@gmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
