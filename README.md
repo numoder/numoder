@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anthony!💽</h1>
+<h1 align="center">Hi 👋, I'm Anthony! 💽</h1>
 ==============================================
 <h3 align="center">A passionate up-and-coming fullstack software engineer soon and hopefully soon to be woman software engineer!</h3>
 
