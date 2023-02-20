@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anthonym04" alt="anthonym04" /></a> </p>
 
-- I'm currently working on a **Valentines' day themed website.**
-
 - 🌱 I’m currently learning **React!**
 
 - 📫 How to reach me **aemurphypro@gmail.com**
