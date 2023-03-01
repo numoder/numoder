@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Anthony! 💽</h1>
 ==============================================
-<h3 align="center">A passionate up-and-coming fullstack software engineer soon and hopefully soon to be woman software engineer!</h3>
+<h3 align="center">A passionate up-and-coming fullstack software engineer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anthonym04&label=Profile%20views&color=0e75b6&style=flat" alt="anthonym04" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anthonym04" alt="anthonym04" /></a> </p>
 
-- 🌱 I’m currently learning how to use **AWS!**
+- 🌱 I’m currently learning how to use **AI!**
 
 - 📫 How to reach me **aemurphypro@gmail.com**
 
