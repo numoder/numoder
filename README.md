@@ -5,8 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anthonym04&label=Profile%20views&color=0e75b6&style=flat" alt="anthonym04" /> </p>
 
 
-- 🌱 I’m currently learning how to use **AWS!**
-
 - 📫 How to reach me **aemurphypro@gmail.com**
 
 
