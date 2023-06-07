@@ -15,4 +15,6 @@
 
 <a href="https://instagram.com/ultikujo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ultikujo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anthony-murphy04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anthony-murphy04" height="30" width="40" /></a>
+  
+  <img src="https://count.getloli.com/get/@:AnthonyM04" alt=":anthonyM04" />
 </p>
