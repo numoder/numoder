@@ -9,7 +9,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AnthonyM04&theme=github_dark&layout=compact" width="800" alt="languages graph"  />
 
-
 <a href="https://www.last.fm/user/ultikujo"><img src="https://lastfm-recently-played.vercel.app/api?user=ultikujo" height="auto" width="350px"/></a>
 
 <h4 align="left">Connect with me:</h4>
