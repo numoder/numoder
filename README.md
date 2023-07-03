@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anthony!!!</h1>
 <h2 align="center">A passionate fullstack / MERN developer & graphic designer!</h2>
-<h3>align="center"</h3>
+<h3align="center">Located in Delray Beach, Florida!</h3>
 
 - 👨‍💻 My favorite projects are at [anthonymurphydev.web.app/#works](anthonymurphydev.web.app/#works)
 
