@@ -18,11 +18,11 @@
 <h5 align="center">View Counter</h5>
 <p align="center">   <img src="https://count.getloli.com/get/@:AnthonyM04" alt=":anthonyM04" /> </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AnthonyM04&theme=github-dark-blue&hide_border=true&border_radius=0)](https://git.io/streak-stats)
+<div align="center">[![GitHub Streak](https://streak-stats.demolab.com?user=AnthonyM04&theme=github-dark-blue&hide_border=true&border_radius=0)](https://git.io/streak-stats)</div>
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AnthonyM04&theme=github_dark&layout=compact" width="800" alt="languages graph"  />
   
-<a href="https://www.last.fm/user/ultikujo"><img src="https://lastfm-recently-played.vercel.app/api?user=ultikujo" height="auto" width="350px"/></a>
+<a align="center" href="https://www.last.fm/user/ultikujo"><img src="https://lastfm-recently-played.vercel.app/api?user=ultikujo" height="auto" width="350px"/></a>
 
 <h6 align="left">Connect with me:</h6>
 <p align="left">
