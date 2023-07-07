@@ -47,4 +47,5 @@
   <img src="https://i.imgur.com/DZcDl6C.png" alt="retro gamer" height="56"/>
   <img src="https://i.imgur.com/L81Gn1m.gif" alt="stars" height="56"/>
   <img src="https://i.imgur.com/OFIAG6f.gif" alt="emojis" height="56"/>
+  <img src="https://i.imgur.com/Hp5aRQI.gif" alt="gameboy" height="56"/>
 </div>
