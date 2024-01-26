@@ -1,5 +1,5 @@
-<h1 align="center">Hi , I'm Anthony!!!</h1>
-<p align="center">A passionate fullstack / MERN developer & graphic designer!</p>
+<h1 align="center">Hello!!!</h1>
+<p align="center">I'm a passionate fullstack / MERN developer & graphic designer!</p>
 <p align="center">Located in North Port, Florida!</p>
 
 <br/>
