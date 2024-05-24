@@ -28,7 +28,7 @@
 
 
 <div align="center">
-<img src="https://count.getloli.com/get/@:AnthonyM04" alt=":anthonyM04" />
+<img src="https://count.getloli.com/get/@:numoder" alt="me" />
 <br/>
 <img href="https://www.last.fm/user/ultikujo" src="https://lastfm-recently-played.vercel.app/api?user=ultikujo" height="auto" width="350px"/>
 </div>
